@@ -26,3 +26,7 @@ public class CategotiaAtleta {
 
     }
 }
+
+
+//8) Categoria de Atleta:
+//Crie um programa que receba a idade de um atleta e exiba a sua categoria (Infantil, Juvenil, Adulto, etc.).
