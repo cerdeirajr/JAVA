@@ -15,14 +15,14 @@ public class VerificacaoDeLetras {
 
         // Verifica se é uma letra válida
         if (letra >= 'a' && letra <= 'z') {
-            // Verifica se é uma vogal
+
             if (letra == 'a' || letra == 'e' || letra == 'i' || letra == 'o' || letra == 'u') {
                 System.out.println("A letra " + letra + " é uma vogal.");
             } else {
                 System.out.println("A letra " + letra + " é uma consoante.");
             }
         } else {
-            // Se não for uma letra válida
+
             System.out.println("Erro: O caractere digitado não é uma letra.");
         }
 
