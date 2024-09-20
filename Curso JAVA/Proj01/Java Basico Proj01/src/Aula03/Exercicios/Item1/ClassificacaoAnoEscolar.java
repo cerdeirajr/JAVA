@@ -19,6 +19,7 @@ public class ClassificacaoAnoEscolar {
             System.out.println(" Ensino Fundamental II ! ");
 
         } else if (idade >= 15 && idade <= 17 ) {
+            System.out.println(" Ensino Medio! ");
 
         }else {
             System.out.println(" Idade não faz parte da classificação ! ");
