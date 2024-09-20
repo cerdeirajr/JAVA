@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class CalculationIMC {
     public static void main(String[] args) {
 
+        calculation();
+
     }
 
     public static void calculation(){
